@@ -1,7 +1,7 @@
 # Server
 
-Express API for the Mastra RAG workspace. Handles auth, document ingestion,
-the chat agent, and thread storage.
+Express API for Cortex. Handles auth, document ingestion, the chat agent,
+and thread storage.
 
 ## Stack
 

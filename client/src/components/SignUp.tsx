@@ -43,7 +43,7 @@ export default function SignUp() {
         className="w-full max-w-sm bg-white border border-line/15 rounded-xl shadow-sm p-6 space-y-4"
       >
         <div>
-          <h1 className="font-display italic text-xl text-ink">Reading Room</h1>
+          <h1 className="font-display italic text-xl text-ink">Cortex</h1>
           <p className="text-xs text-ink/55 mt-1">Create an account.</p>
         </div>
 

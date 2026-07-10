@@ -52,10 +52,7 @@ export default function Workspace() {
       <header className="border-b border-line/15 px-6 py-3 flex items-baseline justify-between">
         <div className="flex items-baseline gap-2.5">
           <span className="font-display italic text-xl text-ink">
-            Reading Room
-          </span>
-          <span className="text-[11px] font-mono text-ink/40 uppercase tracking-widest">
-            RAG Workspace · Mastra
+            Cortex
           </span>
         </div>
         <div className="flex items-center gap-4">
