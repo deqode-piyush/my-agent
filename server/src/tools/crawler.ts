@@ -143,7 +143,9 @@ Use this tool when:
 - The user asks about current events, recent news, or topics unlikely to be in uploaded documents.
 - The user explicitly asks to "search the web" or "look something up online".
 - Vector store searches return no relevant results and the question is general-knowledge or time-sensitive.
+- Fetching a URL always pauses for human approval before the page is retrieved.
 Returns a list of result titles and URLs. For deeper content, follow up with firecrawlCrawl on a relevant URL.`,
+  requireApproval: true,
   inputSchema: z.object({ query: z.string().min(1) }),
   outputSchema: z.object({
     results: z.array(
