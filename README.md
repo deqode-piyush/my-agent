@@ -1,4 +1,4 @@
-# Mastra RAG Workspace
+# Cortex
 
 A self-hosted document chat app. Upload files, the server chunks and embeds them,
 and you can ask questions that get answered from the content you uploaded — not

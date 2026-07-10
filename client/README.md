@@ -1,7 +1,7 @@
 # Client
 
-React frontend for the Mastra RAG workspace — sign in/up, upload documents,
-chat against them in threaded conversations.
+React frontend for Cortex — sign in/up, upload documents, chat against them
+in threaded conversations.
 
 ## Stack
 
